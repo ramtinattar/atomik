@@ -1,0 +1,1743 @@
+{
+  "current": {
+    "color_body_bg": "#ffffff",
+    "color_body_text": "#333029",
+    "color_button": "#e4aeb1",
+    "color_button_text": "#ffffff",
+    "color_sale_price": "#eaedfe",
+    "color_sale_tag": "#e4aeb1",
+    "color_sale_tag_text": "#e3e5f2",
+    "color_cart_dot": "#e4aeb1",
+    "color_cart_dot_text": "#ffffff",
+    "color_alt_bg": "#fdecf4",
+    "color_alt_text": "#333029",
+    "color_announcement": "#fdecf4",
+    "color_announcement_text": "#111111",
+    "color_newsletter": "#fdecf4",
+    "color_newsletter_text": "#111111",
+    "color_drawer_background": "#e4aeb1",
+    "color_drawer_text": "#111111",
+    "color_image_text": "#ffffff",
+    "color_image_overlay": "#000000",
+    "color_image_overlay_opacity": 10,
+    "color_image_overlay_text_shadow": 20,
+    "color_small_image_bg": "#fdfbfa",
+    "color_large_image_bg": "#eee5e0",
+    "type_header_font_family": "linotype_didot_n4",
+    "type_header_capitalize": false,
+    "type_header_spacing": 0,
+    "type_header_base_size": 38,
+    "type_header_line_height": 1.1,
+    "type_base_font_family": "avenir_next_n4",
+    "type_product_capitalize": false,
+    "type_base_spacing": 25,
+    "type_base_size": 18,
+    "type_base_line_height": 1.7,
+    "button_type_style": "normal",
+    "button_style": "shadow",
+    "type_navigation_size": 24,
+    "animate_images": true,
+    "animate_page_transitions": true,
+    "logo_loader_image": "shopify:\/\/shop_images\/04_SHAUNA_ATOMIK_FOND-BLANC_LOGO-HOLO-ConvertImage.png",
+    "desktop_loader_width": 400,
+    "mobile_loader_width": 200,
+    "product_hover_details": true,
+    "product_hover_image": true,
+    "product_image_scatter": false,
+    "product_grid_image_size": "square",
+    "vendor_enable": false,
+    "product_save_amount": false,
+    "product_save_type": "dollar",
+    "product_color_swatches": true,
+    "collection_color_swatches": true,
+    "additional_content_style": "expandable",
+    "product_content_1": "conseils-d-utilisation-mascara",
+    "product_content_2": "composition-mascara",
+    "product_content_3": "",
+    "trust_image": "",
+    "product_contact": false,
+    "product_contact_title": "Ask a question",
+    "product_contact_show_phone": false,
+    "enable_product_reviews": false,
+    "enable_product_reviews_collection": true,
+    "quick_shop_enable": true,
+    "quick_shop_style": "product",
+    "product_image_size": "large",
+    "product_image_type": "stacked",
+    "product_zoom_enable": true,
+    "product_shipping_callout": "",
+    "sku_enable": false,
+    "inventory_enable": false,
+    "inventory_threshold": 10,
+    "inventory_transfers_enable": false,
+    "social_enable": true,
+    "cart_type": "drawer",
+    "cart_icon": "bag",
+    "cart_additional_buttons": false,
+    "cart_notes_enable": false,
+    "cart_terms_conditions_enable": false,
+    "cart_terms_conditions_link": "",
+    "social_instagram_link": "https:\/\/instagram.com\/shopify",
+    "social_facebook_link": "",
+    "social_twitter_link": "",
+    "social_pinterest_link": "",
+    "social_snapchat_link": "",
+    "social_tiktok_link": "",
+    "social_tumblr_link": "",
+    "social_linkedin_link": "",
+    "social_youtube_link": "\/",
+    "social_vimeo_link": "",
+    "share_facebook": true,
+    "share_twitter": true,
+    "share_pinterest": true,
+    "favicon": "",
+    "search_type": "product,article,page",
+    "checkout_header_image": "shopify:\/\/shop_images\/01_SHAUNA_ATOMIK_FOND_HOLOGRAPHIQUE.jpg",
+    "checkout_logo_image": "shopify:\/\/shop_images\/logo_atomik.png",
+    "checkout_logo_position": "center",
+    "checkout_logo_size": "medium",
+    "checkout_body_background_image": "shopify:\/\/shop_images\/01_SHAUNA_ATOMIK_FOND_HOLOGRAPHIQUE.jpg",
+    "checkout_body_background_color": "#ffffff",
+    "checkout_input_background_color_mode": "white",
+    "checkout_sidebar_background_image": "",
+    "checkout_sidebar_background_color": "#fdecf4",
+    "checkout_heading_font": "Helvetica Neue",
+    "checkout_body_font": "Helvetica Neue",
+    "checkout_accent_color": "#111111",
+    "checkout_button_color": "#111111",
+    "checkout_error_color": "#ff0000",
+    "animate_page_transition_style": "page-logo",
+    "checkout_banner_background_color": "#ffffff",
+    "checkout_call_to_action_color": "#a26b25",
+    "checkout_use_header_image": false,
+    "product_video_style": "muted",
+    "reviews_layout": "full",
+    "color_image_bg": "#000000",
+    "sections": {
+      "header": {
+        "type": "header",
+        "settings": {
+          "header_style": "button",
+          "main_menu_alignment": "right",
+          "sticky_index": true,
+          "sticky_collection": true,
+          "header_search_enable": true,
+          "logo": "shopify:\/\/shop_images\/logo_atomik.png",
+          "logo-inverted": "",
+          "desktop_logo_width": 200,
+          "mobile_logo_width": 80,
+          "logo_hide_mobile": true,
+          "main_menu_link_list": "main-menu",
+          "show_announcement": true,
+          "show_announcement_home_only": false,
+          "announcement_text": "-10% sur votre commande avec le code ATOMIK10",
+          "announcement_link": "shopify:\/\/collections\/maquillage"
+        }
+      },
+      "footer": {
+        "type": "footer",
+        "settings": {
+          "show_newsletter": true,
+          "newsletter_title": "Newsletter",
+          "newsletter_richtext": "<p>Retrouvez tous nos conseils beaut&eacute; et nos nouveaut&eacute;s en vous inscrivant &agrave; notre Newsletter !<\/p>",
+          "show_locale_selector": true,
+          "show_currency_selector": true,
+          "show_currency_flags": true,
+          "show_social_icons": true,
+          "menu": "footer",
+          "show_payment_icons": true,
+          "show_copyright": true,
+          "copyright_text": ""
+        }
+      },
+      "collection-template": {
+        "type": "collection-template",
+        "settings": {
+          "per_row_desktop": 2,
+          "per_row_mobile": "1",
+          "description_bottom": false
+        }
+      },
+      "product-template": {
+        "type": "product-template",
+        "settings": {
+          "product_image_size": "large",
+          "product_image_type": "stacked",
+          "product_zoom_enable": true,
+          "enable_video_looping": true,
+          "product_video_style": "muted",
+          "enable_payment_button": true,
+          "product_shipping_callout": "",
+          "variant_type": "button",
+          "variant_labels_enable": true,
+          "sku_enable": false,
+          "inventory_enable": false,
+          "inventory_threshold": 10,
+          "inventory_transfers_enable": false,
+          "quantity_enable": false,
+          "social_enable": true
+        }
+      },
+      "article-template": {
+        "type": "article-template",
+        "settings": {
+          "blog_show_image": false,
+          "blog_show_tags": true,
+          "blog_show_date": false,
+          "blog_show_comments": true,
+          "blog_show_author": false,
+          "social_sharing_blog": false
+        }
+      },
+      "blog-template": {
+        "type": "blog-template",
+        "settings": {
+          "layout": "grid",
+          "post_limit": 9,
+          "blog_show_tag_filter": true,
+          "blog_show_rss": false,
+          "blog_show_tags": true,
+          "blog_show_date": false,
+          "blog_show_comments": true,
+          "blog_show_author": false,
+          "blog_show_excerpt": false,
+          "blog_image_size": "wide"
+        }
+      },
+      "product-sections": {
+        "type": "product-sections",
+        "blocks": {
+          "product-text-and-image": {
+            "type": "text-and-image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/2020-09-14---Atomik---Shauna---05227---homepage-section-haut-ConvertImage.jpg",
+              "image2": "",
+              "image_width": 570,
+              "subtitle": "",
+              "title": "Pourquoi on l'aime ?",
+              "text": "<p><strong>Parce qu&rsquo;il nous transforme en bombe&nbsp;en apportant un volume ind&eacute;cent &agrave; nos cils !<\/strong><\/p>\n<p><\/p>\n<p>Volume imm&eacute;diat<\/p>\n<p>Une texture ultra-cr&eacute;meuse enrichie en actifs hydratants et fortifiants<\/p>\n<p>Une brosse qui permet une application facile et un maquillage modulable<\/p>\n<p>Des cils parfaitement gain&eacute;s d&egrave;s le premier passage et visiblement plus &eacute;pais<\/p>",
+              "button_label": "",
+              "button_link": "",
+              "button_style": "primary",
+              "layout": "right",
+              "alt": false
+            }
+          },
+          "1601395367673": {
+            "type": "hero-video",
+            "settings": {
+              "title": "Comment avoir\nun regard Atomik ?",
+              "title_size": 70,
+              "subheading": "Coline, notre makeup artist vous révèle tous les secrets pour sublimer votre regard",
+              "link_text": "Découvrir",
+              "link": "",
+              "text_align": "vertical-center horizontal-center",
+              "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+              "section_height": "650px",
+              "mobile_height": "auto"
+            }
+          }
+        },
+        "block_order": [
+          "product-text-and-image",
+          "1601395367673"
+        ],
+        "settings": {
+        }
+      },
+      "page-sections-template": {
+        "type": "page-sections-template",
+        "blocks": {
+          "1600358334118": {
+            "type": "image-hero",
+            "settings": {
+              "title": "À propos",
+              "title_size": 60,
+              "subheading": "",
+              "link": "",
+              "link_text": "",
+              "text_align": "vertical-bottom horizontal-right",
+              "image": "shopify:\/\/shop_images\/2020-09-14---Atomik---Shauna---05583---Page-A-propos-ConvertImage.jpg",
+              "desktop_size": -30,
+              "image_mobile": "",
+              "mobile_size": 0,
+              "focal_point": "center center"
+            }
+          },
+          "1558643031646": {
+            "type": "text-and-image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/2020-09-14---Atomik---Shauna---Page-a-propos.jpg",
+              "image2": "shopify:\/\/shop_images\/2020-09-14---Atomik---Shauna---Page-produit-kits-sourcils-teinte-light-ConvertImage.jpg",
+              "image_width": 700,
+              "subtitle": "",
+              "title": "Une féminité assumée, une beauté décomplexée, une overdose de glamour !",
+              "text": "<p>Maquillez-vous sans vous soucier du regard des autres !<\/p>\n<p>Chez Atomik, nous pensons qu&rsquo;être en totale harmonie avec soi-même est la plus belle expression de beauté ! Alors osez être une bombe atomik. Pour nous, le maquillage n&rsquo;est pas un masque derrière lequel on se cache... Nous sommes fières de le montrer et de révéler nos atouts les plus sublimes !<\/p>",
+              "button_label": "",
+              "button_link": "",
+              "button_style": "primary",
+              "layout": "right",
+              "alt": false
+            }
+          },
+          "1600357579374": {
+            "type": "text-columns",
+            "settings": {
+              "title": "Nos produits",
+              "align_text": "center",
+              "alt": false,
+              "enable_image_1": true,
+              "image_1": "shopify:\/\/shop_images\/2020-09-14---Atomik---Shauna---Homepage-section-mascara-ConvertImage.jpg",
+              "image_width_1": 400,
+              "title_1": "L'iconique",
+              "text_1": "<p>L&rsquo;iconique c&rsquo;est LE mascara à avoir absolument. Sa brosse en silicone épouse tous les cils, même les plus fins pour un résultat explosif ! Sa formule enrichie en actifs hydratants et fortifiants chouchouteront vos cils tout au long de la journée.<\/p>",
+              "button_label_1": "Découvrir",
+              "button_link_1": "",
+              "enable_image_2": true,
+              "image_2": "shopify:\/\/shop_images\/2020-09-14---Atomik---Shauna---05612---V2---homepage-section-toit-ConvertImage.jpg",
+              "image_width_2": 400,
+              "title_2": "Le sourcil parfait",
+              "text_2": "<p>Le kit essentiel pour des sourcils définis, disciplinés et structurés... Des sourcils tout simplement parfaits ! Facile à transporter grâce à son mini format et son miroir intégré, vos sourcils seront aussi bien dessinés qu&rsquo;en institut. Le Kit Sourcils offre les avantages du tatouage à la maison sans les inconv&eacute;nients<\/p>",
+              "button_label_2": "Découvrir",
+              "button_link_2": "",
+              "enable_image_3": false,
+              "image_3": "",
+              "image_width_3": 650,
+              "title_3": "",
+              "text_3": "",
+              "button_label_3": "",
+              "button_link_3": ""
+            }
+          }
+        },
+        "block_order": [
+          "1600358334118",
+          "1558643031646",
+          "1600357579374"
+        ],
+        "settings": {
+          "page_title_enable": false,
+          "page_content_enable": true
+        }
+      },
+      "newsletter-popup": {
+        "type": "newsletter-popup",
+        "settings": {
+          "mode": "disabled",
+          "popup_seconds": 5,
+          "popup_days": 30,
+          "popup_title": "Sign up and save",
+          "popup_text": "<p>Entice customers to sign up for your mailing list with discounts or exclusive offers.<\/p>",
+          "enable_newsletter": true,
+          "button_label": "",
+          "button_link": ""
+        }
+      },
+      "list-collections-template": {
+        "type": "list-collections-template",
+        "settings": {
+          "title_enable": true,
+          "display_type": "all",
+          "sort": "alphabetical"
+        }
+      },
+      "1555097143929": {
+        "type": "text-and-image",
+        "settings": {
+          "image": "shopify:\/\/shop_images\/2020-09-14---Atomik---Shauna---05286---Page-produit-Masacara.jpg",
+          "image2": "shopify:\/\/shop_images\/2020-09-14---Atomik---Shauna---05524---hompage-lifestyle-ConvertImage.jpg",
+          "image_width": 550,
+          "subtitle": "Mascara Volume & Soin",
+          "title": "L'iconique",
+          "text": "<p>Un super mascara qui &eacute;toffe, allonge et recourbe vos cils pour un regard intens&eacute;ment sexy...<\/p>",
+          "button_label": "Je le veux !",
+          "button_link": "shopify:\/\/products\/mascara",
+          "button_style": "btn",
+          "layout": "right",
+          "alt": true
+        }
+      },
+      "1555439851826": {
+        "type": "background-image-text",
+        "settings": {
+          "subtitle": "",
+          "title": "Atomik, révèle la bombe qui est en toi !",
+          "text": "<p>Maquillez-vous sans vous soucier du regard des autres !<\/p>\n<p>Chez Atomik, nous pensons qu&rsquo;&ecirc;tre en totale harmonie avec soi-m&ecirc;me est la plus belle expression de beaut&eacute; ! Alors osez &ecirc;tre une bombe atomik. Pour nous, le maquillage n&rsquo;est pas un masque derri&egrave;re lequel on se cache&hellip; Nous sommes fi&egrave;res de le montrer&nbsp;et de r&eacute;v&eacute;ler nos atouts&nbsp;les plus sublimes&nbsp;!<\/p>",
+          "button_label": "Découvrir",
+          "button_link": "shopify:\/\/collections\/maquillage",
+          "image": "shopify:\/\/shop_images\/2020-09-14---Atomik---Shauna---05608---Hompage-section-toit-ConvertImage.jpg",
+          "desktop_size": 0,
+          "image_alignment": "center center",
+          "color_border": "#fdecf4",
+          "layout": "left"
+        }
+      },
+      "1556162914490": {
+        "type": "featured-collection-slider",
+        "disabled": true,
+        "settings": {
+          "title": "Nos produits",
+          "description": "Adopotez-les !",
+          "home_featured_products": "maquillage",
+          "per_row": "small",
+          "alt": false
+        }
+      },
+      "password-header": {
+        "type": "password-header",
+        "settings": {
+          "logo": "",
+          "desktop_logo_width": 200,
+          "mobile_logo_width": 140
+        }
+      },
+      "password-content": {
+        "type": "password-content",
+        "settings": {
+          "title": "Be the first to know",
+          "show_password_message": false,
+          "text": "",
+          "newsletter_enable": true,
+          "newsletter_placeholder": "Enter your email",
+          "newsletter_button_text": "Submit",
+          "show_share_buttons": false,
+          "show_image": true,
+          "image": ""
+        }
+      },
+      "product-recommendations": {
+        "type": "product-recommendations",
+        "settings": {
+          "show_product_recommendations": false,
+          "product_recommendations_heading": "You may also like",
+          "per_row": "small"
+        }
+      },
+      "social": {
+        "type": "social",
+        "settings": {
+          "enable_home": false,
+          "enable_product": false,
+          "enable_collection": false,
+          "title": "Instagram",
+          "description": "<p>Envoyez-nous vos photos &agrave; @atomik_cosmetics<\/p>"
+        }
+      },
+      "1600163073041": {
+        "type": "featured-collection",
+        "settings": {
+          "title": "Nos produits",
+          "description": "Adopotez-les !",
+          "home_featured_products": "maquillage",
+          "rows": 1,
+          "per_row_desktop": 2,
+          "per_row_mobile": "1",
+          "view_all": true,
+          "alt": false
+        }
+      },
+      "collection-header": {
+        "type": "collection-header",
+        "settings": {
+          "collection_image_enable": true,
+          "description_enable": true
+        }
+      },
+      "collection-filters": {
+        "type": "collection-filters",
+        "settings": {
+          "filter_type": "groups",
+          "tags_combine": false,
+          "collection_sort_enable": false
+        }
+      },
+      "product-template-2": {
+        "type": "product-template-2",
+        "settings": {
+          "product_image_size": "large",
+          "product_image_type": "stacked",
+          "product_zoom_enable": true,
+          "enable_video_looping": true,
+          "product_video_style": "muted",
+          "enable_payment_button": true,
+          "product_shipping_callout": "",
+          "variant_type": "button",
+          "variant_labels_enable": true,
+          "sku_enable": false,
+          "inventory_enable": false,
+          "inventory_threshold": 10,
+          "inventory_transfers_enable": false,
+          "quantity_enable": false,
+          "social_enable": true
+        }
+      },
+      "product-sections-2": {
+        "type": "product-sections-2",
+        "blocks": {
+          "1600358749729": {
+            "type": "text-and-image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/2020-09-14---Atomik---Shauna---Page-produit-kits-sourcils-teinte-light-ConvertImage_39f3d631-cccb-46f2-9472-8b23c67d36a9.jpg",
+              "image2": "",
+              "image_width": 700,
+              "subtitle": "",
+              "title": "Pourquoi on l'aime?",
+              "text": "<p><strong>Parce qu&rsquo;il nous transforme en femme fatale, en structurant notre regard&nbsp;!<\/strong><\/p>\n<p>Les avantages du tatouage sans les inconv&eacute;nients&nbsp;! Une routine facile et rapide Un r&eacute;sultat modulable Une longue tenue, pas besoin de retouche Chaque produit peut s&rsquo;utiliser seul ou combin&eacute; <\/p>",
+              "button_label": "",
+              "button_link": "",
+              "button_style": "primary",
+              "layout": "right",
+              "alt": false
+            }
+          }
+        },
+        "block_order": [
+          "1600358749729"
+        ],
+        "settings": {
+        }
+      },
+      "product-recommendations-2": {
+        "type": "product-recommendations-2",
+        "settings": {
+          "show_product_recommendations": true,
+          "product_recommendations_heading": "You may also like",
+          "per_row": "small"
+        }
+      },
+      "1600272551141": {
+        "type": "hero-animated",
+        "blocks": {
+          "1600272551141-0": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/2020-09-14---Atomik---Shauna---05227---homepage-section-haut-ConvertImage.jpg",
+              "image_mobile": "",
+              "focal_point": "center center"
+            }
+          },
+          "1600272551141-1": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/2020-09-14---Atomik---Shauna---05298---Homepage-Livestyle-ConvertImage.jpg",
+              "image_mobile": "",
+              "focal_point": "center center"
+            }
+          },
+          "1600353593070": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/2020-09-14---Atomik---Shauna---05612---V2---homepage-section-toit-ConvertImage.jpg",
+              "image_mobile": "",
+              "focal_point": "center center"
+            }
+          }
+        },
+        "block_order": [
+          "1600272551141-0",
+          "1600272551141-1",
+          "1600353593070"
+        ],
+        "settings": {
+          "style": "gif",
+          "title": "Atomik, \nrévèle la bombe qui est en toi !",
+          "title_size": 50,
+          "subheading": "",
+          "link": "shopify:\/\/collections\/maquillage",
+          "link_text": "Découvrir",
+          "color_accent": "rgba(0,0,0,0)",
+          "text_align": "vertical-bottom horizontal-right",
+          "desktop_size": -10,
+          "mobile_size": 20
+        }
+      },
+      "1600273014794": {
+        "type": "featured-product",
+        "settings": {
+          "featured_product": "mascara",
+          "product_image_type": "slider",
+          "enable_video_looping": true,
+          "product_video_style": "muted",
+          "show_description": false,
+          "enable_payment_button": true,
+          "product_shipping_callout": "",
+          "variant_type": "button",
+          "variant_labels_enable": true,
+          "sku_enable": false,
+          "inventory_enable": false,
+          "inventory_threshold": 10,
+          "inventory_transfers_enable": false,
+          "quantity_enable": false
+        }
+      },
+      "1600273070790": {
+        "type": "featured-product",
+        "settings": {
+          "featured_product": "kit-sourcils",
+          "product_image_type": "slider",
+          "enable_video_looping": true,
+          "product_video_style": "muted",
+          "show_description": false,
+          "enable_payment_button": true,
+          "product_shipping_callout": "",
+          "variant_type": "button",
+          "variant_labels_enable": true,
+          "sku_enable": false,
+          "inventory_enable": false,
+          "inventory_threshold": 10,
+          "inventory_transfers_enable": false,
+          "quantity_enable": false
+        }
+      },
+      "1600354982193": {
+        "type": "text-and-image",
+        "settings": {
+          "image": "shopify:\/\/shop_images\/2020-09-14---Atomik---Shauna---05370---V2---Homepage-Kit-sourcils-ConvertImage.jpg",
+          "image2": "shopify:\/\/shop_images\/2020-09-14---Atomik---Shauna---05394---Homepage-Kit-sourcils-ConvertImage.jpg",
+          "image_width": 700,
+          "subtitle": "Kit sourcils",
+          "title": "Le sourcil parfait",
+          "text": "<p>Un kit complet qui contient tout ce dont vous avez besoin pour un look sourcils parfait, comme en institut !<\/p>",
+          "button_label": "Je craque !",
+          "button_link": "shopify:\/\/products\/kit-sourcils",
+          "button_style": "primary",
+          "layout": "left",
+          "alt": true
+        }
+      },
+      "1600355575501": {
+        "type": "marquee",
+        "settings": {
+          "text": "Des cils spectaculaires  -  Des sourcils parfaitement dessinés  -",
+          "link": "shopify:\/\/collections\/maquillage",
+          "text_size": 34,
+          "text_spacing": true,
+          "color_scheme": "button",
+          "direction": "left",
+          "speed": "slow"
+        }
+      },
+      "page-contact-template": {
+        "type": "page-contact-template",
+        "blocks": {
+          "1600357071450": {
+            "type": "image-hero",
+            "settings": {
+              "title": "NOUS CONTACTER",
+              "title_size": 50,
+              "subheading": "",
+              "link": "",
+              "link_text": "",
+              "text_align": "vertical-bottom horizontal-right",
+              "image": "shopify:\/\/shop_images\/2020-09-14---Atomik---Shauna---Homepage-section-mascara-ConvertImage.jpg",
+              "desktop_size": -40,
+              "image_mobile": "",
+              "mobile_size": -10,
+              "focal_point": "center center"
+            }
+          },
+          "1600357169817": {
+            "type": "rich-text",
+            "settings": {
+              "title": "N'hésitez pas à nous contacter  en utilisant le formulaire ci-dessous  ou sur notre compte Instagram @atomik",
+              "text": "",
+              "align_text": "center",
+              "narrow_column": true,
+              "enlarge_text": false,
+              "alt": true
+            }
+          },
+          "page-contact-template-0": {
+            "type": "contact-form",
+            "settings": {
+              "title": "",
+              "show_phone": true,
+              "narrow_column": true
+            }
+          }
+        },
+        "block_order": [
+          "1600357071450",
+          "1600357169817",
+          "page-contact-template-0"
+        ],
+        "settings": {
+          "page_title_enable": false,
+          "page_content_enable": false
+        }
+      },
+      "1601395516216": {
+        "type": "logo-list",
+        "blocks": {
+          "1601395516216-0": {
+            "type": "logo_image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Footer_1.jpg",
+              "link": ""
+            }
+          },
+          "1601395516216-1": {
+            "type": "logo_image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Footer_2.jpg",
+              "link": ""
+            }
+          },
+          "1601395516216-2": {
+            "type": "logo_image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Footer_3.jpg",
+              "link": ""
+            }
+          },
+          "1601395516216-3": {
+            "type": "logo_image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Footer_4.jpg",
+              "link": ""
+            }
+          }
+        },
+        "block_order": [
+          "1601395516216-0",
+          "1601395516216-1",
+          "1601395516216-2",
+          "1601395516216-3"
+        ],
+        "settings": {
+          "title": "",
+          "logo_opacity": 100,
+          "alt": false
+        }
+      },
+      "1601395809896": {
+        "type": "instafeed",
+        "settings": {
+          "heading_font": "avenir_next_rounded_n4",
+          "heading_size": 20,
+          "feed_width": 100,
+          "html_area": "<!-- -->"
+        }
+      }
+    },
+    "content_for_index": [
+      "1600272551141",
+      "1600355575501",
+      "1556162914490",
+      "1600163073041",
+      "1555097143929",
+      "1600273014794",
+      "1600354982193",
+      "1600273070790",
+      "1555439851826",
+      "1601395516216",
+      "1601395809896"
+    ]
+  },
+  "presets": {
+    "Core": {
+      "animate_images": true,
+      "animate_page_transition_style": "page-logo",
+      "button_style": "round",
+      "button_type_style": "normal",
+      "cart_type": "sticky",
+      "checkout_accent_color": "#111111",
+      "checkout_banner_background_color": "#ffffff",
+      "checkout_body_background_color": "#ffffff",
+      "checkout_body_font": "Helvetica Neue",
+      "checkout_button_color": "#111111",
+      "checkout_call_to_action_color": "#a26b25",
+      "checkout_error_color": "#ff6d6d",
+      "checkout_heading_font": "Helvetica Neue",
+      "checkout_input_background_color_mode": "white",
+      "checkout_logo_position": "left",
+      "checkout_logo_size": "medium",
+      "checkout_sidebar_background_color": "#fafafa",
+      "checkout_use_header_image": false,
+      "color_alt_bg": "#f9f9f9",
+      "color_alt_text": "#000000",
+      "color_announcement": "#000000",
+      "color_announcement_text": "#ffffff",
+      "color_body_bg": "#ffffff",
+      "color_body_text": "#000000",
+      "color_button": "#000000",
+      "color_button_text": "#ffffff",
+      "color_cart_dot": "#f75d44",
+      "color_cart_dot_text": "#ffffff",
+      "color_drawer_background": "#ffffff",
+      "color_drawer_text": "#000000",
+      "color_image_overlay": "#000000",
+      "color_image_overlay_opacity": 10,
+      "color_image_overlay_text_shadow": 20,
+      "color_image_text": "#ffffff",
+      "color_large_image_bg": "#000000",
+      "color_newsletter": "#000000",
+      "color_newsletter_text": "#fff",
+      "color_sale_price": "#000000",
+      "color_sale_tag": "#990000",
+      "color_small_image_bg": "#ffffff",
+      "desktop_loader_width": 100,
+      "mobile_loader_width": 100,
+      "product_grid_image_size": "natural",
+      "product_hover_details": false,
+      "product_hover_image": true,
+      "product_image_scatter": false,
+      "product_video_style": "muted",
+      "reviews_layout": "full",
+      "social_facebook_link": "https:\/\/www.facebook.com\/shopify",
+      "social_instagram_link": "https:\/\/instagram.com\/shopify",
+      "social_pinterest_link": "https:\/\/www.pinterest.com\/shopify",
+      "type_base_font_family": "roboto_condensed_n4",
+      "type_base_line_height": 1.6,
+      "type_base_size": 18,
+      "type_base_spacing": "25",
+      "type_header_base_size": 46,
+      "type_header_capitalize": true,
+      "type_header_font_family": "roboto_condensed_i7",
+      "type_header_line_height": 1,
+      "type_header_spacing": "-25",
+      "type_product_capitalize": false,
+      "sections": {
+        "header": {
+          "type": "header",
+          "settings": {
+            "sticky_index": true,
+            "sticky_collection": false,
+            "header_search_enable": true,
+            "show_announcement": false,
+            "show_announcement_home_only": false
+          }
+        },
+        "footer": {
+          "type": "footer",
+          "settings": {
+            "show_newsletter": true,
+            "show_social_icons": true,
+            "menu": "footer",
+            "newsletter_title": "Join the club",
+            "newsletter_richtext": "",
+            "show_payment_icons": false,
+            "show_copyright": false
+          }
+        },
+        "collection-template": {
+          "type": "collection-template",
+          "settings": {
+            "per_row_desktop": 3
+          }
+        },
+        "product-template": {
+          "type": "product-template",
+          "settings": {
+          }
+        },
+        "article-template": {
+          "type": "article-template",
+          "settings": {
+            "blog_show_image": true,
+            "blog_show_tags": true,
+            "blog_show_date": true,
+            "blog_show_comments": true,
+            "blog_show_author": false,
+            "social_sharing_blog": true
+          }
+        },
+        "blog-template": {
+          "type": "blog-template",
+          "settings": {
+            "blog_show_tag_filter": true,
+            "blog_show_rss": false,
+            "blog_show_tags": true,
+            "blog_show_date": true,
+            "blog_show_comments": true,
+            "blog_show_author": false
+          }
+        },
+        "product-sections": {
+          "type": "product-sections",
+          "blocks": {
+            "product-text-columns": {
+              "type": "text-columns",
+              "settings": {
+                "title": "Why choose us?",
+                "align_text": "center",
+                "alt": true,
+                "enable_image_1": false,
+                "image_width_1": 650,
+                "title_1": "Reason one",
+                "text_1": "<p>Use this section to explain your company philosophy or standards. Add images for emphasis. This content will appear on all products.<\/p>",
+                "enable_image_2": false,
+                "image_width_2": 650,
+                "title_2": "Reason two",
+                "text_2": "<p>Use this section to explain your company philosophy or standards. Add images for emphasis. This content will appear on all products.<\/p>",
+                "enable_image_3": false,
+                "image_width_3": 650,
+                "title_3": "",
+                "text_3": ""
+              }
+            },
+            "product-text-and-image": {
+              "type": "text-and-image",
+              "settings": {
+                "image_width": 700,
+                "text": "<p>Pair large text with an image to tell a story, explain a detail about your products, or describe a new promotion.<\/p>",
+                "button_style": "primary",
+                "layout": "right"
+              }
+            },
+            "product-background-image-text": {
+              "type": "background-image-text",
+              "settings": {
+                "layout": "right"
+              }
+            }
+          },
+          "block_order": [
+            "product-text-columns",
+            "product-text-and-image",
+            "product-background-image-text"
+          ],
+          "settings": {
+          }
+        },
+        "page-sections-template": {
+          "type": "page-sections-template",
+          "blocks": {
+            "1559681273277": {
+              "type": "image-hero",
+              "settings": {
+                "title_size": 80,
+                "text_align": "vertical-center horizontal-center"
+              }
+            },
+            "1558643031646": {
+              "type": "text-and-image",
+              "settings": {
+                "image_width": 450,
+                "button_style": "primary",
+                "layout": "right"
+              }
+            },
+            "1558643392013": {
+              "type": "map",
+              "settings": {
+              }
+            },
+            "1558643431127": {
+              "type": "collection-slider",
+              "settings": {
+                "per_row": "large"
+              }
+            },
+            "1558643225272": {
+              "type": "hero-video",
+              "settings": {
+                "title": "Keep it short\nand sweet.",
+                "title_size": 60,
+                "subheading": "Explain your brand in more depth on your product pages",
+                "text_align": "vertical-center horizontal-center",
+                "section_height": "750px",
+                "mobile_height": "100vh"
+              }
+            }
+          },
+          "block_order": [
+            "1559681273277",
+            "1558643031646",
+            "1558643392013",
+            "1558643431127",
+            "1558643225272"
+          ],
+          "settings": {
+            "page_title_enable": false,
+            "page_content_enable": true
+          }
+        },
+        "newsletter-popup": {
+          "type": "newsletter-popup",
+          "settings": {
+            "mode": "disabled",
+            "popup_seconds": 5,
+            "popup_days": 30,
+            "enable_newsletter": true
+          }
+        },
+        "1543003878234": {
+          "type": "featured-collections",
+          "blocks": {
+            "1543003878234-0": {
+              "type": "collection",
+              "settings": {
+              }
+            },
+            "1543003878234-1": {
+              "type": "collection",
+              "settings": {
+              }
+            },
+            "1543003878234-2": {
+              "type": "collection",
+              "settings": {
+              }
+            },
+            "1543003878234-3": {
+              "type": "collection",
+              "settings": {
+              }
+            }
+          },
+          "block_order": [
+            "1543003878234-0",
+            "1543003878234-1",
+            "1543003878234-2",
+            "1543003878234-3"
+          ],
+          "settings": {
+            "alt": true,
+            "title": "Shop all"
+          }
+        },
+        "list-collections-template": {
+          "type": "list-collections-template",
+          "settings": {
+          }
+        },
+        "1556162802939": {
+          "type": "featured-collection",
+          "settings": {
+            "per_row_desktop": 4,
+            "per_row_mobile": "2",
+            "description": "For more traditional layouts"
+          }
+        },
+        "1556162914490": {
+          "type": "featured-collection-slider",
+          "settings": {
+            "description": "With infinite scrolling"
+          }
+        },
+        "1558626745581": {
+          "type": "featured-content",
+          "settings": {
+            "align_text": "center",
+            "narrow_column": true,
+            "enlarge_text": true
+          }
+        },
+        "1559096311192": {
+          "type": "hero-animated",
+          "blocks": {
+            "1559096311192-0": {
+              "type": "image",
+              "settings": {
+              }
+            },
+            "1559097202495": {
+              "type": "image",
+              "settings": {
+              }
+            }
+          },
+          "block_order": [
+            "1559096311192-0",
+            "1559097202495"
+          ],
+          "settings": {
+            "style": "gif",
+            "title": "Make an impression",
+            "title_size": 80,
+            "text_align": "vertical-center horizontal-center"
+          }
+        },
+        "1559098181700": {
+          "type": "slideshow",
+          "blocks": {
+            "1559098181700-0": {
+              "type": "image",
+              "settings": {
+                "title_size": 80,
+                "text_align": "vertical-bottom horizontal-left"
+              }
+            }
+          },
+          "block_order": [
+            "1559098181700-0"
+          ],
+          "settings": {
+          }
+        },
+        "1559321610782": {
+          "type": "hero-video",
+          "settings": {
+            "title": "Keep it short\nand sweet.",
+            "title_size": 80,
+            "subheading": "Explain your brand in more depth on your product pages",
+            "text_align": "vertical-bottom horizontal-center",
+            "section_height": "750px",
+            "mobile_height": "100vh"
+          }
+        },
+        "product-recommendations": {
+          "type": "product-recommendations",
+          "settings": {
+            "show_product_recommendations": true
+          }
+        },
+        "1559585995085": {
+          "type": "featured-collection-slider",
+          "settings": {
+            "description": "With infinite scrolling"
+          }
+        },
+        "1559586187853": {
+          "type": "marquee",
+          "settings": {
+            "text": "Follow us for monthly apparel giveaways",
+            "text_size": 36
+          }
+        },
+        "1559687247066": {
+          "type": "text-and-image",
+          "settings": {
+            "image_width": 700,
+            "button_label": "Our story",
+            "button_style": "secondary",
+            "layout": "right"
+          }
+        },
+        "1559687361077": {
+          "type": "text-and-image",
+          "settings": {
+            "image_width": 700,
+            "button_label": "Contact us",
+            "button_style": "secondary",
+            "layout": "left"
+          }
+        },
+        "1559687710135": {
+          "type": "map",
+          "settings": {
+          }
+        }
+      },
+      "content_for_index": [
+        "1559321610782",
+        "1559585995085",
+        "1558626745581",
+        "1559096311192",
+        "1556162914490",
+        "1559098181700",
+        "1556162802939",
+        "1543003878234",
+        "1559687247066",
+        "1559687361077",
+        "1559687710135",
+        "1559586187853"
+      ]
+    },
+    "Luxe": {
+      "animate_images": true,
+      "animate_page_transition_style": "page-logo",
+      "button_style": "shadow",
+      "cart_type": "sticky",
+      "checkout_accent_color": "#111111",
+      "checkout_banner_background_color": "#ffffff",
+      "checkout_body_background_color": "#ffffff",
+      "checkout_body_font": "Helvetica Neue",
+      "checkout_button_color": "#111111",
+      "checkout_call_to_action_color": "#a26b25",
+      "checkout_error_color": "#ff6d6d",
+      "checkout_heading_font": "Helvetica Neue",
+      "checkout_input_background_color_mode": "white",
+      "checkout_logo_position": "left",
+      "checkout_logo_size": "medium",
+      "checkout_sidebar_background_color": "#fafafa",
+      "checkout_use_header_image": false,
+      "color_alt_bg": "#ffffff",
+      "color_alt_text": "#333029",
+      "color_announcement": "#c67066",
+      "color_announcement_text": "#ffffff",
+      "color_body_bg": "#fdfbfa",
+      "color_body_text": "#333029",
+      "color_button": "#c67066",
+      "color_button_text": "#ffffff",
+      "color_cart_dot": "#c67066",
+      "color_drawer_background": "#fdf9f5",
+      "color_drawer_text": "#333029",
+      "color_image_bg": "#000000",
+      "color_image_overlay": "#000000",
+      "color_image_overlay_opacity": 10,
+      "color_image_text": "#ffffff",
+      "color_large_image_bg": "#eee5e0",
+      "color_newsletter": "#c67066",
+      "color_newsletter_text": "#ffffff",
+      "color_sale_price": "#333029",
+      "color_sale_tag": "#c67066",
+      "color_small_image_bg": "#fdfbfa",
+      "desktop_loader_width": 140,
+      "mobile_loader_width": 130,
+      "product_grid_image_size": "natural",
+      "product_hover_details": true,
+      "product_hover_image": true,
+      "product_image_scatter": false,
+      "product_video_style": "muted",
+      "reviews_layout": "full",
+      "social_facebook_link": "https:\/\/www.facebook.com\/shopify",
+      "social_instagram_link": "https:\/\/instagram.com\/shopify",
+      "social_pinterest_link": "https:\/\/www.pinterest.com\/shopify",
+      "type_base_font_family": "futura_n4",
+      "type_base_line_height": 1.7,
+      "type_base_size": 18,
+      "type_base_spacing": "25",
+      "type_header_base_size": 50,
+      "type_header_capitalize": false,
+      "type_header_font_family": "itc_novarese_n5",
+      "type_header_line_height": 1.1,
+      "type_header_spacing": "0",
+      "type_product_capitalize": false,
+      "sections": {
+        "header": {
+          "type": "header",
+          "settings": {
+            "sticky_index": true,
+            "sticky_collection": true,
+            "header_search_enable": true,
+            "show_announcement": true,
+            "show_announcement_home_only": false
+          }
+        },
+        "footer": {
+          "type": "footer",
+          "settings": {
+            "show_newsletter": true,
+            "show_social_icons": true,
+            "show_payment_icons": false,
+            "show_copyright": false
+          }
+        },
+        "collection-template": {
+          "type": "collection-template",
+          "settings": {
+            "per_row_desktop": 3
+          }
+        },
+        "product-template": {
+          "type": "product-template",
+          "settings": {
+          }
+        },
+        "article-template": {
+          "type": "article-template",
+          "settings": {
+            "blog_show_image": false,
+            "blog_show_tags": true,
+            "blog_show_date": false,
+            "blog_show_comments": true,
+            "blog_show_author": false,
+            "social_sharing_blog": false
+          }
+        },
+        "blog-template": {
+          "type": "blog-template",
+          "settings": {
+            "blog_show_tag_filter": true,
+            "blog_show_rss": false,
+            "blog_show_tags": true,
+            "blog_show_date": false,
+            "blog_show_comments": true,
+            "blog_show_author": false
+          }
+        },
+        "product-sections": {
+          "type": "product-sections",
+          "blocks": {
+            "product-text-columns": {
+              "type": "text-columns",
+              "settings": {
+                "title": "Why choose us?",
+                "align_text": "center",
+                "alt": true,
+                "enable_image_1": false,
+                "image_width_1": 650,
+                "title_1": "Reason one",
+                "text_1": "<p>Use this section to explain your company philosophy or standards. Add images for emphasis. This content will appear on all products.<\/p>",
+                "enable_image_2": false,
+                "image_width_2": 650,
+                "title_2": "Reason two",
+                "text_2": "<p>Use this section to explain your company philosophy or standards. Add images for emphasis. This content will appear on all products.<\/p>",
+                "enable_image_3": false,
+                "image_width_3": 650,
+                "title_3": "",
+                "text_3": ""
+              }
+            },
+            "product-text-and-image": {
+              "type": "text-and-image",
+              "settings": {
+                "image_width": 700,
+                "text": "<p>Pair large text with an image to tell a story, explain a detail about your products, or describe a new promotion.<\/p>",
+                "button_style": "primary",
+                "layout": "right"
+              }
+            },
+            "product-background-image-text": {
+              "type": "background-image-text",
+              "settings": {
+                "layout": "right"
+              }
+            }
+          },
+          "block_order": [
+            "product-text-columns",
+            "product-text-and-image",
+            "product-background-image-text"
+          ],
+          "settings": {
+          }
+        },
+        "page-sections-template": {
+          "type": "page-sections-template",
+          "blocks": {
+            "1558643031646": {
+              "type": "text-and-image",
+              "settings": {
+                "image_width": 400,
+                "button_style": "primary",
+                "layout": "right"
+              }
+            },
+            "1558643225272": {
+              "type": "hero-video",
+              "settings": {
+                "title": "Keep it short\nand sweet.",
+                "title_size": 47,
+                "subheading": "Explain your brand in more depth on your product pages",
+                "text_align": "vertical-center horizontal-center",
+                "section_height": "750px",
+                "mobile_height": "100vh"
+              }
+            },
+            "1558643431127": {
+              "type": "collection-slider",
+              "settings": {
+                "per_row": "small"
+              }
+            },
+            "1558643392013": {
+              "type": "map",
+              "settings": {
+              }
+            }
+          },
+          "block_order": [
+            "1558643031646",
+            "1558643225272",
+            "1558643431127",
+            "1558643392013"
+          ],
+          "settings": {
+            "page_title_enable": true,
+            "page_content_enable": true
+          }
+        },
+        "newsletter-popup": {
+          "type": "newsletter-popup",
+          "settings": {
+            "mode": "disabled",
+            "popup_seconds": 5,
+            "popup_days": 30,
+            "enable_newsletter": true
+          }
+        },
+        "list-collections-template": {
+          "type": "list-collections-template",
+          "settings": {
+            "title_enable": true,
+            "display_type": "all"
+          }
+        },
+        "1555097143929": {
+          "type": "text-and-image",
+          "settings": {
+            "image_width": 700,
+            "button_style": "btn",
+            "layout": "right"
+          }
+        },
+        "1555439851826": {
+          "type": "background-image-text",
+          "settings": {
+            "color_border": "#4f1c3a",
+            "layout": "right"
+          }
+        },
+        "1556162802939": {
+          "type": "featured-collection-slider",
+          "settings": {
+          }
+        },
+        "1556162914490": {
+          "type": "featured-collection-slider",
+          "settings": {
+          }
+        },
+        "1558625522348": {
+          "type": "background-image-text",
+          "settings": {
+            "color_border": "#4f1c3a",
+            "layout": "left"
+          }
+        },
+        "1558626497917": {
+          "type": "hero-video",
+          "settings": {
+            "title": "Keep it short\nand sweet.",
+            "title_size": 80,
+            "subheading": "Explain your brand in more depth on your product pages",
+            "text_align": "vertical-center horizontal-center",
+            "section_height": "750px",
+            "mobile_height": "100vh"
+          }
+        },
+        "1558626745581": {
+          "type": "featured-content",
+          "settings": {
+            "align_text": "center",
+            "narrow_column": true,
+            "enlarge_text": true
+          }
+        },
+        "1559155590855": {
+          "type": "text-columns",
+          "blocks": {
+            "1559155590855-0": {
+              "type": "text_block",
+              "settings": {
+                "enable_image": false,
+                "title": "Reason one"
+              }
+            },
+            "1559155590855-1": {
+              "type": "text_block",
+              "settings": {
+                "enable_image": false,
+                "title": "Reason two"
+              }
+            }
+          },
+          "block_order": [
+            "1559155590855-0",
+            "1559155590855-1"
+          ],
+          "settings": {
+            "title": "Why choose us?",
+            "align_text": "center",
+            "alt": true
+          }
+        },
+        "password-header": {
+          "type": "password-header",
+          "settings": {
+          }
+        },
+        "password-content": {
+          "type": "password-content",
+          "settings": {
+            "newsletter_enable": true,
+            "show_share_buttons": false,
+            "show_image": true
+          }
+        },
+        "product-recommendations": {
+          "type": "product-recommendations",
+          "settings": {
+            "show_product_recommendations": true,
+            "per_row": "small"
+          }
+        }
+      },
+      "content_for_index": [
+        "1558626497917",
+        "1556162914490",
+        "1558626745581",
+        "1555097143929",
+        "1555439851826",
+        "1559155590855",
+        "1556162802939",
+        "1558625522348"
+      ]
+    },
+    "Hype": {
+      "animate_images": false,
+      "animate_page_transition_style": "page-logo",
+      "button_style": "shadow",
+      "cart_type": "sticky",
+      "checkout_accent_color": "#111111",
+      "checkout_body_background_color": "#ffffff",
+      "checkout_body_font": "Helvetica Neue",
+      "checkout_button_color": "#111111",
+      "checkout_error_color": "#ff6d6d",
+      "checkout_heading_font": "Helvetica Neue",
+      "checkout_input_background_color_mode": "white",
+      "checkout_logo_position": "left",
+      "checkout_logo_size": "medium",
+      "checkout_sidebar_background_color": "#fafafa",
+      "color_alt_bg": "#000000",
+      "color_alt_text": "#ffffff",
+      "color_announcement": "#000000",
+      "color_announcement_text": "#ffffff",
+      "color_body_bg": "#ffffff",
+      "color_cart_dot": "#FF2300",
+      "color_drawer_background": "#ffffff",
+      "color_drawer_text": "#000000",
+      "color_image_bg": "#000000",
+      "color_image_overlay": "#000000",
+      "color_image_overlay_opacity": 10,
+      "color_image_text": "#ffffff",
+      "color_large_image_bg": "#000000",
+      "color_newsletter": "#000000",
+      "color_newsletter_text": "#ffffff",
+      "color_small_image_bg": "#f2f2f2",
+      "desktop_loader_width": 190,
+      "mobile_loader_width": 180,
+      "product_grid_image_size": "natural",
+      "product_hover_details": false,
+      "product_hover_image": true,
+      "product_image_scatter": true,
+      "product_video_style": "muted",
+      "reviews_layout": "full",
+      "social_facebook_link": "https:\/\/www.facebook.com\/shopify",
+      "social_instagram_link": "https:\/\/instagram.com\/shopify",
+      "social_pinterest_link": "https:\/\/www.pinterest.com\/shopify",
+      "type_base_font_family": "basic_commercial_n7",
+      "type_base_line_height": 1.3,
+      "type_base_size": 20,
+      "type_base_spacing": "25",
+      "type_header_base_size": 48,
+      "type_header_capitalize": true,
+      "type_header_font_family": "basic_commercial_n7",
+      "type_header_line_height": 0.9,
+      "type_header_spacing": "25",
+      "type_product_capitalize": true,
+      "sections": {
+        "header": {
+          "type": "header",
+          "settings": {
+            "sticky_index": true,
+            "sticky_collection": true,
+            "header_search_enable": true,
+            "show_announcement": false
+          }
+        },
+        "footer": {
+          "type": "footer",
+          "settings": {
+            "show_newsletter": false
+          }
+        },
+        "collection-template": {
+          "type": "collection-template",
+          "settings": {
+            "per_row_desktop": 3
+          }
+        },
+        "product-template": {
+          "type": "product-template",
+          "settings": {
+          }
+        },
+        "article-template": {
+          "type": "article-template",
+          "settings": {
+            "blog_show_image": true,
+            "blog_show_tags": true,
+            "blog_show_date": true,
+            "blog_show_comments": true,
+            "blog_show_author": false,
+            "social_sharing_blog": true
+          }
+        },
+        "blog-template": {
+          "type": "blog-template",
+          "settings": {
+            "blog_show_tag_filter": true,
+            "blog_show_rss": false,
+            "blog_show_tags": true,
+            "blog_show_date": true,
+            "blog_show_comments": true,
+            "blog_show_author": false
+          }
+        },
+        "product-sections": {
+          "type": "product-sections",
+          "blocks": {
+            "product-text-columns": {
+              "type": "text-columns",
+              "settings": {
+                "title": "Why choose us?",
+                "align_text": "center",
+                "alt": true,
+                "enable_image_1": false,
+                "image_width_1": 650,
+                "title_1": "Reason one",
+                "text_1": "<p>Use this section to explain your company philosophy or standards. Add images for emphasis. This content will appear on all products.<\/p>",
+                "enable_image_2": false,
+                "image_width_2": 650,
+                "title_2": "Reason two",
+                "text_2": "<p>Use this section to explain your company philosophy or standards. Add images for emphasis. This content will appear on all products.<\/p>",
+                "enable_image_3": false,
+                "image_width_3": 650,
+                "title_3": "",
+                "text_3": ""
+              }
+            },
+            "product-text-and-image": {
+              "type": "text-and-image",
+              "settings": {
+                "image_width": 700,
+                "text": "<p>Pair large text with an image to tell a story, explain a detail about your products, or describe a new promotion.<\/p>",
+                "button_style": "primary",
+                "layout": "right"
+              }
+            },
+            "product-background-image-text": {
+              "type": "background-image-text",
+              "settings": {
+                "layout": "right"
+              }
+            }
+          },
+          "block_order": [
+            "product-text-columns",
+            "product-text-and-image",
+            "product-background-image-text"
+          ],
+          "settings": {
+          }
+        },
+        "page-sections-template": {
+          "type": "page-sections-template",
+          "blocks": {
+            "1558643031646": {
+              "type": "text-and-image",
+              "settings": {
+                "image_width": 400,
+                "button_style": "primary",
+                "layout": "right"
+              }
+            },
+            "1558643431127": {
+              "type": "collection-slider",
+              "settings": {
+                "per_row": "small"
+              }
+            }
+          },
+          "block_order": [
+            "1558643031646",
+            "1558643431127"
+          ],
+          "settings": {
+            "page_title_enable": true,
+            "page_content_enable": true
+          }
+        },
+        "newsletter-popup": {
+          "type": "newsletter-popup",
+          "settings": {
+            "mode": "disabled",
+            "popup_seconds": 5,
+            "popup_days": 30,
+            "enable_newsletter": true
+          }
+        },
+        "list-collections-template": {
+          "type": "list-collections-template",
+          "settings": {
+          }
+        },
+        "1555097143929": {
+          "type": "text-and-image",
+          "settings": {
+          }
+        },
+        "1556162802939": {
+          "type": "featured-collection-slider",
+          "settings": {
+          }
+        },
+        "1556162914490": {
+          "type": "featured-collection-slider",
+          "settings": {
+          }
+        },
+        "1559240039950": {
+          "type": "hero-animated",
+          "blocks": {
+            "1559240039950-0": {
+              "type": "image",
+              "settings": {
+              }
+            },
+            "1559240039950-1": {
+              "type": "image",
+              "settings": {
+              }
+            },
+            "1559309176406": {
+              "type": "image",
+              "settings": {
+              }
+            }
+          },
+          "block_order": [
+            "1559240039950-0",
+            "1559240039950-1",
+            "1559309176406"
+          ],
+          "settings": {
+            "style": "gif",
+            "title_size": 72,
+            "text_align": "vertical-bottom horizontal-right"
+          }
+        },
+        "1559241610369": {
+          "type": "marquee",
+          "settings": {
+            "text": "☞ FREE SHIPPING AND RETURNS",
+            "text_size": 70,
+            "text_spacing": true,
+            "color_scheme": "text",
+            "direction": "left"
+          }
+        },
+        "product-recommendations": {
+          "type": "product-recommendations",
+          "settings": {
+            "show_product_recommendations": true,
+            "per_row": "large"
+          }
+        },
+        "1559249041610": {
+          "type": "hero-video",
+          "settings": {
+            "title": "Keep it short\nand sweet.",
+            "title_size": 80,
+            "subheading": "Explain your brand in more depth on your product pages",
+            "text_align": "vertical-bottom horizontal-left",
+            "section_height": "750px",
+            "mobile_height": "100vh"
+          }
+        }
+      },
+      "content_for_index": [
+        "1559240039950",
+        "1555097143929",
+        "1559241610369",
+        "1556162914490",
+        "1559249041610",
+        "1556162802939"
+      ]
+    }
+  }
+}
